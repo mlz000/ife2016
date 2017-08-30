@@ -1,2 +1,4 @@
 # ife2016
-front-end exercise from baidu
+http://ife.baidu.com/2016/
+Front End exercise from Baidu institute of Front End Technology.
+I'm a little child in Front End world QwQ. Fighting! 
