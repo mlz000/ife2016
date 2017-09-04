@@ -83,7 +83,22 @@
     </form>
     <br/>
     <form method = "post">
-        <label for = "person"></label>
+        <label>性别</label>
+        <input type = "radio" checked = "checked">男
+        <input type = "radio" checked = "checked">女
+        <label>城市</label>
+            <select name=""> 
+                <option value="北京">北京</option> 
+                <option value="上海">上海</option> 
+                <option value="西安">西安</option> 
+            </select> 
+        <label>爱好</label>
+            <input type = "checkbox" value = "checkbox">运动
+            <input type = "checkbox" value = "checkbox">艺术
+            <input type = "checkbox" value = "checkbox">科学
+        <label>个人描述</label>
+            <textarea rows = "3" cols = "30">这是一个多行文本框，输入你的个人描述</textarea>
+            <input type = "submit" value = "确认提交">
     </form>
     
 </article>
